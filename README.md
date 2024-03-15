@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Debasis Sahoo</h1>
 <h3 align="center">A passionate frontend developer from Bhubaneswar</h3>
-<img align="right" alt="coding" width="400"  src="https://tse4.mm.bing.net/th?id=OIP.kbUTNQ5Pw-esY0-8yjb8JQHaEK&pid=Api&P=0&h=180">
+<img align="center" alt="coding" width="400"  src="https://tse4.mm.bing.net/th?id=OIP.kbUTNQ5Pw-esY0-8yjb8JQHaEK&pid=Api&P=0&h=180">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debasisankit&label=Profile%20views&color=0e75b6&style=flat" alt="debasisankit" /> </p>
 
